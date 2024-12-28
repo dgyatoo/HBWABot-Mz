@@ -8,8 +8,8 @@ global.GroupWcMsg = false // false a i dah chuan welcome message i off ang
 global.autoTyping = false // true a i dah chuan i type la a lang ang
 global.autoRecord = false // true a i dah chuan Voice record angin i lang ang
 global.public = true // false ah i dah chuan nang chauhin i hmang thei ang
-global.autoread = true // true a i dah chuan message zawng zawng read vek zelin a awm ang 
-global.autoread_status = true // true a i dah chuan auto status view in a awm ang
+global.autoread = false // true a i dah chuan message zawng zawng read vek zelin a awm ang 
+global.autoread_status = false // true a i dah chuan auto status view in a awm ang
 
 // SET UP LANGUAGE >>>>>>
 global.default_language = true // If you don't want to use the default language, set it to false
@@ -21,7 +21,7 @@ global.bot_language = 'lus' // support language [English, Mizo, Indonesia, Russi
 //info
 global.owner = ['919863840872'] // I phone number in thlak rawh
 global.ownernumber = '919863840872' // I phone number in thlak rawh
-global.ownername = "꧁Yato♕꧂" // I hming dah tel bawk la
+global.ownername = "dream guy yato" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
 global.botname = "Always yato" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
