@@ -1,6 +1,6 @@
 {
   "name": "hbwabot",
-  "version": "10.5.0",
+  "version": "11.0.0",
   "description": "Automated whatsapp bot hi nodejs leh baileys lib hmanga siam a ni",
   "main": "index.js",
   "type": "commonjs",
@@ -11,10 +11,6 @@
   "scripts": {
     "start": "node index.js"
   },
-  "engines":{
-      "node":"21.x",
-      "npm":"10.8.2"
-   },
   "keywords": [
     "whatsapp",
     "2024"
@@ -22,7 +18,7 @@
   "author": "HBMods-OFC",
   "license": "MIT",
    "dependencies": {
-        "@adiwajshing/baileys": "npm:@whiskeysockets/baileys@6.7.8",
+        "@adiwajshing/baileys": "github:HBMods-OFC/Library",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper": "^4.2.4",
         "@bochilteam/scraper-sosmed": "^1.0.5",
